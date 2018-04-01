@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFragmentSample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnUserInfo">btnUserInfo</string>
+    <string name="btnColor">btnColor</string>
+    <string name="btnDrink">btnDrink</string>
+    <string name="btnFood">btnFood</string>
+</resources>
